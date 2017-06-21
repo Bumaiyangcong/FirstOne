@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login_example</string>
+    <string name="username">请输入用户名</string>
+    <string name="password">请输入用密码</string>
+    <string name="remember"> 记住密码</string>
+    <string name="login"> 登录</string>
+</resources>
